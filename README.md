@@ -11,3 +11,7 @@ Consider each doctor can treat a maximum of 5 people per day at a particular hos
 
 1. Select required medical field.
 
+![select_field](https://user-images.githubusercontent.com/32769719/41970505-bf9790d6-7a28-11e8-8add-a132f2e3916d.JPG)
+
+2. After selecting required field, say Cardiology, select the required doctor.
+
