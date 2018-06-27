@@ -1,5 +1,5 @@
 # Appointment-Booking-System
-It's a software solution used by attendant to book patient's appointment instead of maintaining paper-based databases.
+It's a Desktop application used by attendant to book patient's appointment instead of maintaining paper-based databases.
 
 The basic idea behind the project is, it lets attendant book patient's appointment for a particular doctor visiting hospital and backend does the necessary checking for slots and making entries in database.
 
