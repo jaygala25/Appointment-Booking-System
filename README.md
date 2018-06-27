@@ -5,9 +5,17 @@ The basic idea behind the project is, it lets attendant book patient's appointme
 
 This Project is made using Java, more specifically, Swing, JDBC and MySQL.
 
+## Some advantages of computerized database over paper-based database
+
+1. Very fast to find a specific record.
+2. Can be used to analyse the data.
+3. Can easily update or amend a record.
+4. Records are stored safely, they are available when needed.
+5. The database can be kept secure by use of passwords and many more....
+
 ## How the project works ?
 
-Consider each doctor can treat a maximum of 5 people per day at a particular hospital and there are no appointments booked currently.
+Consider each doctor can treat a maximum of 5 patients per day at a particular hospital and there are no appointments booked currently.
 
 1. Select required medical field.
 
