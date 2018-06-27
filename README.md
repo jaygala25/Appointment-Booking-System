@@ -7,7 +7,7 @@ This Project is made using Java, more specifically, Swing, JDBC and MySQL.
 
 ## How the project works ?
 
-Consider each doctor can treat a maximum of 5 people per day at a particular hospital.
+Consider each doctor can treat a maximum of 5 people per day at a particular hospital and there are no appointments booked currently.
 
 1. Select required medical field.
 
@@ -21,3 +21,16 @@ Consider each doctor can treat a maximum of 5 people per day at a particular hos
 
 4. **Condition** - If the no. of entries of the current date is less than 5 then attendant will enter the required information and appointment will be booked successfully.
 
+![booked](https://user-images.githubusercontent.com/32769719/41972443-8b324e10-7a2f-11e8-961d-741f952b0398.JPG)
+
+5. Database table:
+
+![half_database](https://user-images.githubusercontent.com/32769719/41972456-961065d8-7a2f-11e8-94a7-d976a0ac3e15.JPG)
+
+6. If no. of entries of the current date becomes equal to 5 then appointment is not booked.
+
+![not_booked](https://user-images.githubusercontent.com/32769719/41972471-9f27ffaa-7a2f-11e8-9e6e-7500b07e1afc.JPG)
+
+7. Database table:
+
+![full_database](https://user-images.githubusercontent.com/32769719/41972474-a431d250-7a2f-11e8-93a1-4384db16bb8c.JPG)
