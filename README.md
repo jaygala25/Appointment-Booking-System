@@ -13,7 +13,7 @@ This Project is made using Java, more specifically, Swing, JDBC and MySQL.
 4. Records are stored safely, they are available when needed.
 5. The database can be kept secure by use of passwords and many more....
 
-## How does the project works ?
+## How does this project works ?
 
 Consider each doctor can treat a maximum of 5 patients per day at a particular hospital and there are no appointments booked currently.
 
